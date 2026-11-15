@@ -6,5 +6,5 @@ compatibility_date = "2023-03-24"
 # Neither value is secret: GitHub OAuth client IDs are public by design.
 # GITHUB_CLIENT_SECRET is stored as an encrypted secret in the dashboard, never here.
 [vars]
-ALLOWED_DOMAINS = "www.troop199fairfield.org, troop199fairfield.org"
+ALLOWED_DOMAINS = "www.troop199fairfield.org, troop199fairfield.org, troop199-website.troop-199.workers.dev"
 GITHUB_CLIENT_ID = "Ov23lie59ULrnNcJzRf5"
